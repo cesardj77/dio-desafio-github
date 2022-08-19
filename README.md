@@ -1,2 +1,2 @@
-# dio-desafio-primeiro-repositorio (curso html)
+# dio-desafio-primeiro-repositorio 
 Desafio de Projeto
